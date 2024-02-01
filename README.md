@@ -6,7 +6,10 @@ server and this file is connected with server IP address.In client side the clie
 2)Features is it uses the socket() system call to create sockets, bind() to bind the server socket to a specific address
 and port, listen() to listen for incoming connections, and accept() to accept incoming client connections.
 # How to run a code:
-This project mainly run in ubuntu aur WSL aur any linux command download the file and run in ubuntu terminal or WSL 
+This project mainly run in ubuntu aur WSL aur any linux command download the file and run in ubuntu terminal or WSL.
+
 Step1:gcc filename.c -o ser
+
 Step2: ./ser
+
 Same process for client also
