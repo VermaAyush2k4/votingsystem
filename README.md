@@ -13,3 +13,17 @@ Step1:gcc filename.c -o ser
 Step2: ./ser
 
 Same process for client also
+
+# Demo of above client server application:
+
+Client side:
+
+
+<img width="410" alt="client" src="https://github.com/VermaAyush2k4/votingsystem/assets/117018341/16b0d140-291c-4bc8-a436-177c80d37ae9">
+
+Server Side:
+
+<img width="464" alt="server" src="https://github.com/VermaAyush2k4/votingsystem/assets/117018341/712dbd45-efb4-4ecb-afd2-cc4e2ff9e074">
+
+
+
